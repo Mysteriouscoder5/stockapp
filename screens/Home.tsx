@@ -13,7 +13,7 @@ import {
 } from 'native-base';
 import React, {Component} from 'react';
 import {StyleSheet} from 'react-native';
-import {ChevronUpIcon, UserCircleIcon} from 'react-native-heroicons/outline';
+import {ChevronUpIcon} from 'react-native-heroicons/outline';
 import data from '../lib/data.json';
 import CryptoCard from '../components/CryptoCard';
 
