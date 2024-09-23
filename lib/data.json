@@ -1,0 +1,86 @@
+{
+  "user": {
+    "name": "Peter Jones",
+    "balance": 450933,
+    "monthly_profit": 12484,
+    "profit_percentage": 10,
+    "avatar_url": "https://randomuser.me/api/portraits/men/1.jpg"
+  },
+  "portfolio": [
+    {
+      "symbol": "BTC",
+      "portfolio_value": 145250,
+      "percentage_change": 20,
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+    },
+    {
+      "symbol": "ETH",
+      "portfolio_value": 250245,
+      "percentage_change": 15,
+      "image_url": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    }
+  ],
+  "popular_currencies": [
+    {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "percentage_change": 4.72,
+      "price_usd": 10136.73,
+      "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+    },
+    {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "percentage_change": 6.86,
+      "price_usd": 185.65,
+      "image_url": "https://cryptologos.cc/logos/ethereum-eth-logo.png"
+    },
+    {
+      "name": "XRP",
+      "symbol": "XRP",
+      "percentage_change": 8.95,
+      "price_usd": 0.262855,
+      "image_url": "https://cryptologos.cc/logos/xrp-xrp-logo.png"
+    },
+    {
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "percentage_change": 4.55,
+      "price_usd": 297.98,
+      "image_url": "https://cryptologos.cc/logos/bitcoin-cash-bch-logo.png"
+    },
+    {
+      "name": "Litecoin",
+      "symbol": "LTC",
+      "percentage_change": 7.12,
+      "price_usd": 71.24,
+      "image_url": "https://cryptologos.cc/logos/litecoin-ltc-logo.png"
+    },
+    {
+      "name": "Binance Coin",
+      "symbol": "BNB",
+      "percentage_change": 3.43,
+      "price_usd": 27.11,
+      "image_url": "https://cryptologos.cc/logos/binance-coin-bnb-logo.png"
+    },
+    {
+      "name": "EOS",
+      "symbol": "EOS",
+      "percentage_change": 5.27,
+      "price_usd": 3.44,
+      "image_url": "https://cryptologos.cc/logos/eos-eos-logo.png"
+    }
+  ],
+  "selected_currency": {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "current_buy_price": 39914,
+    "percentage_change": 4.65,
+    "balance": 5.0107731,
+    "current_value": 200005,
+    "average_buy_price": 37598,
+    "gain_loss_percentage": 5.65,
+    "market_rank": 1,
+    "image_url": "https://cryptologos.cc/logos/bitcoin-btc-logo.png"
+  }
+}
